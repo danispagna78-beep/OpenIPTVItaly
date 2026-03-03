@@ -11,7 +11,7 @@ and this project follows **Semantic Versioning**.
 
 ### Fixed
 
-- Added MAN-GA Channel
+- Added MAN-GA Channel and Logo
 - Updated logo for Italia 2
 
 ## [1.2.1] - 2026-02-05
