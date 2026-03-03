@@ -7,6 +7,13 @@ and this project follows **Semantic Versioning**.
 
 ---
 
+## [1.2.2] - 2026-03-03
+
+### Fixed
+
+- Added MAN-GA Channel
+- Updated logo for Italia 2
+
 ## [1.2.1] - 2026-02-05
 
 ### Fixed
