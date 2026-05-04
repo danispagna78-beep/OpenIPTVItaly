@@ -19,7 +19,7 @@ La playlist include **solo flussi disponibili pubblicamente e legalmente accessi
 
 * Canali TV a pagamento
 * Streaming protetto da DRM
-* Contenuti pirata o ridistribuiti
+* Contenuti pirata
 
 ## 🧩 Playlist Structure
 
