@@ -1,10 +1,10 @@
 # 🇮🇹 OpenIPTVItaly
 
-**OpenIPTVItaly** is an **open-source, public and curated Italian IPTV playlist**, designed to become **the reference playlist for free-to-air Italian TV channels**.
+**OpenIPTVItaly** è una **playlist IPTV italiana open-source, pubblica e curata**, progettata per diventare **la playlist di riferimento per i canali televisivi italiani in chiaro**.
 
-> 🎯 Goal: quality, reliability and transparency. No broken links, no pay-TV, no DRM.
+🎯 Obiettivo: qualità, affidabilità e trasparenza. Nessun link non funzionante, nessuna pay-TV, nessun DRM.
 
-## 📺 Content
+## 📺 Contenuto
 
 The playlist includes **only publicly available and legally accessible streams**:
 
