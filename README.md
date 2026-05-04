@@ -46,7 +46,7 @@ Simplified version with no EPG and no external dependencies.
 Recommended for maximum compatibility with basic IPTV players and Smart TVs.
 
 ```md
-https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly_No_EPG.m3u 
+https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly_No_EPG.m3u 
 ```
 
 ## 📡 EPG Source
