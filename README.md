@@ -21,14 +21,14 @@ La playlist include **solo flussi disponibili pubblicamente e legalmente accessi
 * Streaming protetto da DRM
 * Contenuti pirata
 
-## 🧩 Playlist Structure
+## 🧩 Struttura della playlist
 
-The playlist follows common IPTV standards:
+La playlist segue gli standard IPTV più comuni:
 
-* Consistent `tvg-id` for EPG matching
-* Official `tvg-name`
-* High-quality `tvg-logo`
-* `tvg-chno` (LCN where applicable)
+* `tvg-id` coerente per la corrispondenza con la guida elettronica ai programmi (EPG)
+* `tvg-name` ufficiale
+* `tvg-logo` di alta qualità
+* `tvg-chno` (LCN, ove applicabile)
 
 ## 🔗 Playlist URL
 
