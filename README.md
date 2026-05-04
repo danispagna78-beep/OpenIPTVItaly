@@ -13,7 +13,7 @@ La playlist include **solo flussi disponibili pubblicamente e legalmente accessi
 * 📰 Notizie
 * 🎬 Intrattenimento
 * 🏟️ Sport gratuiti
-* 📻 Radio (quando disponibile)
+* 📻 Radio (quando disponibili)
 
 ❌ **Not included**:
 
