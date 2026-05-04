@@ -1,4 +1,4 @@
-# 🇮🇹 OpenIPTVItaly
+# OpenIPTVItaly
 
 **OpenIPTVItaly** è una **playlist IPTV italiana open-source, pubblica e curata**, progettata per diventare **la playlist di riferimento per i canali televisivi italiani in chiaro**.
 
