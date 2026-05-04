@@ -8,12 +8,12 @@
 
 La playlist include **solo flussi disponibili pubblicamente e legalmente accessibili**:
 
-* 📡 National and local free-to-air TV channels
-* 🧒 Kids channels
-* 📰 News
-* 🎬 Entertainment
-* 🏟️ Free sports
-* 📻 Radio (when available)
+* 📡 Canali TV nazionali e locali gratuiti
+* 🧒 Canali per bambini
+* 📰 Notizie
+* 🎬 Intrattenimento
+* 🏟️ Sport gratuiti
+* 📻 Radio (quando disponibile)
 
 ❌ **Not included**:
 
