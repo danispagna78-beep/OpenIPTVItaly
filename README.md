@@ -40,15 +40,6 @@ Includes full channel metadata and standard playlist structure.
 https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly.m3u
 ```
 
-### Minimal Playlist (No EPG)
-
-Simplified version with no EPG and no external dependencies.  
-Recommended for maximum compatibility with basic IPTV players and Smart TVs.
-
-```md
-https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly_No_EPG.m3u 
-```
-
 ## 📡 EPG Source
 
 When available, EPG data is obtained from publicly accessible sources provided by **epgshare01.online**.
