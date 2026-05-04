@@ -8,7 +8,7 @@
 
 La playlist include **solo flussi disponibili pubblicamente e legalmente accessibili**:
 
-* 📡 Canali TV nazionali e locali gratuiti
+* 📡 Canali TV nazionali gratuiti
 * 🧒 Canali per bambini
 * 📰 Notizie
 * 🎬 Intrattenimento
