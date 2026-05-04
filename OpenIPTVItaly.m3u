@@ -170,11 +170,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-chno="45" tvg-id="BoingPlus.it" tvg-name="Boing Plus" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/Logos/45-boingplus.png", Boing Plus
-#EXTSIZE: Medium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://smplu.link/danispagna78-beep-BoingPlus.m3u8
-
 #EXTINF:-1 tvg-chno="46" tvg-id="Cartoonito.it" tvg-name="Cartoonito HD" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/Logos/46-cartoonito.png", Cartoonito HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
