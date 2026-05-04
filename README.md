@@ -32,17 +32,16 @@ La playlist segue gli standard IPTV più comuni:
 
 ## 🔗 Playlist URL
 
-### Main Playlist (with metadata)
+### Playlist principale (con metadati)
 
-Includes full channel metadata and standard playlist structure.
+Include metadati completi del canale e la struttura standard della playlist.
 
 ```md
 https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/OpenIPTVItaly.m3u
 ```
 
-## 📡 EPG Source
+## 📡 Fonte EPG
 
-When available, EPG data is obtained from publicly accessible sources provided by **epgshare01.online**.
+Quando disponibili, i dati EPG vengono ottenuti da fonti accessibili al pubblico fornite da **epgshare01.online**.
 
-The EPG is used for informational purposes only and reflects standard TV scheduling
-data that is already publicly available.
+L'EPG è utilizzato esclusivamente a scopo informativo e riflette i dati standard di programmazione televisiva già disponibili al pubblico.
