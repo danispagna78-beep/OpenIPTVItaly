@@ -6,7 +6,7 @@
 
 ## 📺 Contenuto
 
-The playlist includes **only publicly available and legally accessible streams**:
+La playlist include **solo flussi disponibili pubblicamente e legalmente accessibili*:
 
 * 📡 National and local free-to-air TV channels
 * 🧒 Kids channels
