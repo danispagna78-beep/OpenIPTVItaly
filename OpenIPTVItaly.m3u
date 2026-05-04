@@ -328,7 +328,7 @@ https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/p
 #EXTINF:-1 tvg-chno="257" tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/Logos/257-gamberorosso.png", Gambero Rosso
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://smplu.link/danispagna78-beep-GamberoRosso.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(4MTci5YhOX5kGxEH2vBq3M7I0kGxp7ZJhCqdWNMh5ea282feNnDU9JDW0NxL51XsS9eBP3yuDjr_IR_o1wTlHsjOSZJFAexm_-D9aMsVMeJ6O-Gu71FUI-5kMy-TaNHz)/cloud/3/x9us6y4/s/live-720.m3u8
 
 #EXTINF:-1 tvg-chno="258" tvg-id="RADIOFRECCIA.HD.it" tvg-name="RadioFreccia" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/Logos/258-radiofreccia.png", RadioFreccia
 #EXTSIZE: Medium
