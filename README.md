@@ -12,7 +12,7 @@ La playlist include **solo flussi disponibili pubblicamente e legalmente accessi
 * 🧒 Canali per bambini
 * 📰 Notizie
 * 🎬 Intrattenimento
-* 🏟️ Sport gratuiti
+* 🏟️ Sport gratuito
 * 📻 Radio (quando disponibili)
 
 ❌ **Non sono inclusi:**:
