@@ -15,11 +15,11 @@ La playlist include **solo flussi disponibili pubblicamente e legalmente accessi
 * 🏟️ Sport gratuiti
 * 📻 Radio (quando disponibili)
 
-❌ **Not included**:
+❌ **Non sono inclusi:**:
 
-* Pay-TV channels
-* DRM-protected streams
-* Pirated or redistributed content
+* Canali TV a pagamento
+* Streaming protetto da DRM
+* Contenuti pirata o ridistribuiti
 
 ## 🧩 Playlist Structure
 
