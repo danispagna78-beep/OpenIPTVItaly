@@ -43,7 +43,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 https://d3pkcyie9gav9y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrrq3jtymmzoc/out/v1/fdb9d129ff7f4a7bbc8fe0902122e48f/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/danispagna78-beep/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png", 20Mediaset HD
